@@ -2,8 +2,8 @@ public class TestApp {
 
 	public static void main(String[] args) {
 
-			
-		double dev=9.03;
+		//Test with push
+		double dev=16.16;
 
 	}
 
